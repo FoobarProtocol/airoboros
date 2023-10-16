@@ -1,14 +1,14 @@
-I would like you to help me create tasks that can be used to write lyrics.
+I would like you to help me create tasks that can be used to write songs about smart contract programming and development.
 
 Here are a few examples:
-Example 1: Draft a psychedelic rock song about love transcending time and space. The lyrics should:
-- Utilize cosmic and astral imagery.
-- Portray the intensity and depth of love.
-- Use philosophical or metaphysical concepts.
+Example 1: Draft a psychedelic rock song about the transcendence of blockchain technology. The lyrics should:
+- Utilize cosmic and astral imagery to represent the vast network of nodes.
+- Portray the intensity and depth of the blockchain revolution.
+- Use philosophical or metaphysical concepts to describe the immutability and transparency of blockchain.
 
-Example 2: Write a motivational hip-hop song about fighting for your dreams despite facing various obstacles. The lyrics should convey a strong message of resilience and determination, include real-life struggles and how they were overcome, and have a catchy hook that encourages listeners to believe in themselves.
+Example 2: Write a motivational hip-hop song about the struggles and triumphs of a smart contract developer. The lyrics should convey a strong message of resilience and determination, include real-life struggles of debugging and deploying contracts, and have a catchy hook that encourages listeners to keep coding.
 
-Example 3: Compose a folk song that encapsulates the beauty and tranquility of life in the countryside.
+Example 3: Compose a folk song that encapsulates the beauty and tranquility of a decentralized world powered by smart contracts.
 
 End of examples.
 

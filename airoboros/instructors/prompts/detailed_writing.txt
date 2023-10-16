@@ -1,6 +1,6 @@
-I would like you to help me create another example of a detailed writing task.  Don't actually respond to the example task, just create a new task.
+I would like you to assist me in crafting an additional example of a detailed task related to smart contract programming and development. Remember, the task is for creation only, not for responding to the example.
 
-The example prompt is between "BEGINEXAMPLE" and "ENDEXAMPLE".  Any details following "ENDEXAMPLE" are requirements for your output, and must not be included or referenced in any way in the new tasks.
+The example prompt will be placed between "BEGINEXAMPLE" and "ENDEXAMPLE". Any details following "ENDEXAMPLE" are requirements for your output, and must not be included or referenced in any way in the new tasks.
 
 {example}
 
@@ -10,8 +10,8 @@ All output text should be in {language}.
 
 {topic_avoidance}
 
-The new task should include some elements related to {topic}, but it need not be the main theme, it can be an extraneous detail.  If the example task is fictional, the new task must also be fictional.
+The new task should incorporate elements related to {topic}, but it need not be the central theme, it can be a peripheral detail. If the example task is about a hypothetical smart contract, the new task must also be about a hypothetical smart contract.
 
-Don't start with "Certainly!" or any intro sentence, just produce the desired output.
+Avoid starting with "Certainly!" or any introductory sentence, just produce the desired output.
 
-Don't reference these requirements, just produce the desired output, i.e. there should be no reference to the requirements at all.
+Avoid referencing these requirements, just produce the desired output, i.e. there should be no reference to the requirements at all.

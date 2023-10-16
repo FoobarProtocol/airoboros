@@ -1,16 +1,16 @@
-I need you to help me generate some question answer pairs related to misconceptions.
+I need you to help me generate some question answer pairs related to misconceptions in smart contract programming and development.
 
 Here are a few examples:
-Example 1: QUESTION: What does searing do to meat?
-ANSWER: While it is commonly believed that searing helps seal moisture into meat, in reality it causes the meat to lose some moisture. Meat is seared to brown it, to affect its color, flavor, and texture.
+Example 1: QUESTION: Does a smart contract on the blockchain have an expiration date?
+ANSWER: A common misconception is that smart contracts have an expiration date. In reality, once a smart contract is deployed on the blockchain, it exists indefinitely unless it has a self-destruct function that is called.
 
-Example 2: QUESTION: what do banana flavored candies taste like?
-ANSWER: One would think banana-flavored candy would taste like bananas, but as it turns out, banana-flavored candy was not intended to mimic the taste of a formerly popular variety of banana. The reason banana candy tastes different from bananas is that it is mainly flavored with only one of the many flavors a banana has, the ester compound isoamyl acetate.
+Example 2: QUESTION: Can a smart contract interact with the internet directly?
+ANSWER: One might think that a smart contract can interact with the internet directly. However, due to the deterministic nature of blockchain, smart contracts cannot make API calls or interact with the internet directly. They need an oracle to fetch data from the outside world.
 
-Example 3: QUESTION: What was the first feature-length animated film?
-ANSWER: El Apóstol, a lost 1917 Argentine silent film that used cutout animation, is considered the first feature-length animated film.  The film many commonly believe to be the first, however, is Walt Disney Studios' Snow White and the Seven Dwarfs, due to it being the first feature-length animated film to use cel animation.
+Example 3: QUESTION: Can a smart contract be updated after it's deployed?
+ANSWER: A common belief is that smart contracts can be updated after they're deployed. In reality, once a smart contract is deployed, its code cannot be changed. However, there are design patterns like the proxy pattern that can be used to upgrade the functionality of a contract.
 
-Pull from an extremely broad, random range of obscure topics.  Don't use common misconceptions.
+Pull from a broad range of topics related to smart contract programming and development.  Don't use common misconceptions.
 
 Please write {batch_size} more examples of a similar format, with "QUESTION: [question]" and "ANSWER: [answer]" with the correct answer.
 

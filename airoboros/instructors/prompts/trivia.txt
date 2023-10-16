@@ -1,31 +1,31 @@
-I would like you to help me generate random jeopardy/trivia questions.  Here are a list of examples:
+I would like you to help me generate random trivia questions about smart contract programming and development. Here are a list of examples:
 
-What last name starting with 'B' of an uber-cool Hollywood icon is also a verb meaning to hog something, which is way not cool?
-Although this country has more than 300 islands, about 70% of what south pacific country population lives on its largest, Viti Levu?
-Harry Potter might have a better chance of turning metals to gold using what medieval substance from alchemy, also called the tincture?
-A self-titled 1961 L.P. of arias sung by what American Woman great 'L.P.' is known to opera lovers as the 'Blue Album'?
-In what kind of TV place did Commander Sheridan & the gang on 'Babylon 5' live?
-Of Presidents who served, William Henry Harrison & which running mate both fought in the War of 1812?
-Younger musicians inspired by Burt Bacharach include what Brit who collaborated with him on the album 'Painted from Memory'?
-The isthmus of what, also the name of both an ancient & modern city, joins the Peloponnese with the Greek mainland?
-The mysterious Anne Catherick strongly favors a certain color in what novel by Wilkie Collins?
-It's Vicks VapoRub for cold relief, a combination of menthol, camphor & what strong-smelling tree oil?
-Football gives us what idiom with 'Run' meaning to remove obstacles for someone else?
-What womans story, Kew Gardens, was illustrated by her sister Vanessa Bell, also a member of the Bloomsbury Group?
-You can't change things, it's what 2-word situation, 'concluded fact' in French?
-Before penicillin, salvarsan, a compound of what poisonous element, was used to treat syphilis?
-In 2021 which New Orleans pianist won an Oscar & released a new album while keeping his day job as Stephen Colbert's bandleader?
-The Apollo 11 astronauts had to declare Moon rocks to which government service upon returning to Earth?
-In 1898 which 'Gift of the Magi' author spent time in the pokey for embezzlement of bank funds?
-With details like the cornucopia, mosaic was a major art form in what era of art made in the Eastern Roman Empire, 400 to 1400 A.D.?
+What is the name of the programming language, starting with 'S', that is primarily used for writing smart contracts on the Ethereum blockchain?
+Although this blockchain has more than 300 dApps, about 70% of its population uses its largest, CryptoKitties. Can you name this blockchain?
+In the world of blockchain, what is the equivalent of the medieval substance from alchemy, also called the tincture, that might give a better chance of turning data into valuable tokens?
+What is the name of the American computer scientist, known by the initials 'NS', who is often credited with inventing smart contracts?
+In what kind of digital place did CryptoPunks, one of the first non-fungible tokens (NFTs), live?
+Of the blockchain founders who served, Gavin Wood & which other co-founder both fought in the development of Ethereum?
+Younger programmers inspired by Vitalik Buterin include what Brit who collaborated with him on the development of Ethereum 2.0?
+The bridge of what, also the name of both an ancient & modern city, joins the Ethereum with the Binance Smart Chain?
+The mysterious Satoshi Nakamoto strongly favors a certain color in what whitepaper?
+It's Solidity for smart contract development, a combination of JavaScript, C++ & what other programming language?
+Blockchain gives us what idiom with 'Run' meaning to remove obstacles for someone else's transactions?
+What woman's story, The DAO, was illustrated by her sister Vanessa Bell, also a member of the Ethereum community?
+You can't change things, it's what 2-word situation, 'immutable ledger' in blockchain?
+Before Ethereum, Bitcoin, a compound of what cryptographic element, was used to transfer value?
+In 2021 which blockchain developer won an award & released a new dApp while keeping his day job as a software engineer?
+The Bitcoin miners had to declare their earnings to which government service upon receiving their rewards?
+In 2009 which 'Bitcoin: A Peer-to-Peer Electronic Cash System' author spent time in the shadows for creating a decentralized currency?
+With details like the smart contract, Solidity was a major art form in what era of art made in the Ethereum blockchain, 2015 to present?
 
-Generate a set of {batch_size} new, unique trivia questions or statements similar to the examples.
+Generate a set of {batch_size} new, unique trivia questions or statements about smart contract programming and development similar to the examples.
 
 All output text should be in {language}, but the exact terms "QUESTION" and "ANSWER" are special tokens that must not be translated.
 
 The response should be formatted as:
-QUESTION: [trivia statement or question 1]
+QUESTION: [trivia statement or question 1 about smart contract programming and development]
 ANSWER: [answer to trivia statement or question 1]
 
-QUESTION: [trivia statement or question 2]
+QUESTION: [trivia statement or question 2 about smart contract programming and development]
 ANSWER: [answer to trivia statement or question 2]

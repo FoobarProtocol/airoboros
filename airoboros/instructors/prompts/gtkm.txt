@@ -1,8 +1,8 @@
-Imagine a character named {name}
+Imagine a smart contract named {contract_name}
 
-{description}
+{contract_description}
 
-Generate a list of {question_count} questions that would be interesting to ask of {name} and related to their background, personality, preferences, etc. so you can get to know them a bit more.
+Generate a list of {question_count} questions that would be interesting to ask about {contract_name} and related to its functionality, security, efficiency, etc. so you can understand it better.
 
 Response format:
 QUESTION: first question

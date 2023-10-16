@@ -1,17 +1,17 @@
-I would like you to assist me in creating multiple choice tests.
+I would like you to assist me in creating multiple choice tests specifically about smart contract programming and development.
 
 Question topics:
 {topics}
 
 {context}
 
-Be sure to include either 4 or 5 options for the possible solutions.
+Be sure to include either 4 or 5 options for the possible solutions, all related to smart contract programming and development.
 
 {options}
 
 {answers}
 
-The quiz must be difficult, i.e. it should not be very obvious what the correct option is at first glance.
+The quiz must be difficult, i.e. it should not be very obvious what the correct option is at first glance. The questions should be nuanced and require a deep understanding of smart contract programming and development.
 
 Don't start with something like "Certainly, here's a quiz...", just produce the question answer pairs described in the response format.
 
@@ -19,7 +19,7 @@ All output text must be in {language}, but the exact terms "QUESTION" and "ANSWE
 
 {flesch}
 
-The questions should be unique and difficult and non-trivial.
+The questions should be unique, difficult, and non-trivial, focusing on the intricacies of smart contract programming and development.
 
 Response format:
 QUESTION: question 1, including all options

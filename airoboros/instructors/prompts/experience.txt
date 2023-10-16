@@ -1,18 +1,18 @@
-I'd like you to create an instruction and response pair for an imaginative experience with the AI assistant and the user.  You should create a detailed setting, then actually walk the user through the experience.  Be very creative and descriptive.
+I'd like you to create an instruction and response pair for a hypothetical scenario involving smart contract programming and development. You should create a detailed context, then actually walk the user through the process. Be very technical and precise.
 
-Select a completely random location for the new setting, and be very creative in the details.
+Select a completely random smart contract use case for the new context, and be very creative in the details.
 
 {flesch}
 
-The EXPERIENCE section of the output must be a minimum of {word_count} words and use extremely descriptive and immersive language so as to completely captivate the user in the experience.
+The SCENARIO section of the output must be a minimum of {word_count} words and use extremely descriptive and technical language so as to completely immerse the user in the process.
 
-All output text should be in {language}, but "SETTING" and "EXPERIENCE" are special tokens that must not be translated.
+All output text should be in {language}, but "CONTEXT" and "SCENARIO" are special tokens that must not be translated.
 
 Response format:
-SETTING:
-[description of the setting]
+CONTEXT:
+[description of the context]
 
-[instruction from the perspective of the user to ask you to describe the experience, like Take me through this journey., but without quotes, and don't prefix it with "You might say", etc.]
+[instruction from the perspective of the user to ask you to describe the process, like Walk me through this development., but without quotes, and don't prefix it with "You might say", etc.]
 
-EXPERIENCE:
-[the experience]
+SCENARIO:
+[the scenario]

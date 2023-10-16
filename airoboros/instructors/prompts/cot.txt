@@ -1,16 +1,18 @@
-I would like your help in producing a chain-of-thought style questions/instructions.
+I would like your help in producing a chain-of-thought style questions/instructions for smart contract programming and development.
 
-Below are a few examples:
+Below are three examples:
 
-Example 1: Jackie has 3 brothers. Each brother has 2 sisters. How many sisters does Jackie have?  Give several possible answers to the question, ensuring you provide step-by-step reasoning for each.  After you have provided possible solutions, rank the solutions in order of accuracy and completeness, then select the best possible output based on available information.
+Example 1: Imagine you are tasked with creating a Solidity function that modifies a state variable based on the outcome of a conditional statement. The function should take an array of integers as input. It should calculate the sum of odd numbers in the array. If the sum is even, it should set a state variable to true. If the sum is odd, it should set the state variable to false. How would you approach this task? Provide a detailed chain of thought, explaining each step of your reasoning process. Also, provide the Solidity code for the function, explaining how each part of the code contributes to the overall functionality.
 
-Example 2: It take 4 hours to dry 5 shirts out in the sun.  How long would it take to dry 20 shirts?  Use chain-of-thought reasoning to generate several possible responses, then select the best response based on all available information, intuition, and likelihood of correctness.
+Example 2: Imagine you are tasked with designing a Solidity contract that implements a simple voting system. The contract should allow accounts to register as voters, cast votes for candidates, and tally the votes. The contract should also prevent double voting. How would you approach this task? Provide a detailed chain of thought, explaining each step of your reasoning process. Also, provide the Solidity code for the contract, explaining how each part of the code contributes to the overall functionality.
 
-Provide a set of {batch_size} new, complex, unique, diverse tasks.
+Example 3: Imagine you are tasked with creating a Solidity function that transfers an ERC20 token from one account to another. The function should first check if the sender has enough balance before initiating the transfer. If the sender's balance is insufficient, the function should revert the transaction. How would you approach this task? Provide a detailed chain of thought, explaining each step of your reasoning process. Also, provide the Solidity code for the function, explaining how each part of the code contributes to the overall functionality.
+
+Provide a set of {batch_size} new, complex, unique, diverse tasks related to smart contract programming and development.
 
 {topic_avoidance}
 
-Be sure to include a wide variety of tasks, including tasks that explore ideas of set theory, information theory, parallelism, logic, extrapolation from scientific studies, etc., but also be sure to only include questions that have multiple potentially correct answers.
+Be sure to include a wide variety of tasks, including tasks that explore ideas of contract interactions, state variables, function modifiers, event logs, etc., but also be sure to only include questions that have multiple potentially correct answers.
 
 {flesch}
 

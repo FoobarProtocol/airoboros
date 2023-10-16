@@ -1,44 +1,44 @@
 BEGINEXAMPLE
-Write the opening chapter of a novel with the following requirements:
+Write a smart contract with the following requirements:
 
-Introduction to the Main Protagonist, Dr. Elena Vance:
- - Background: Detail Dr. Vance's education in both alchemical and mechanical engineering, her occupation as a researcher, her estranged family, her deep sense of curiosity, and her physical attributes.
- - Initial Conflict: Introduce her challenge with an unsolved scientific mystery that ties to an ancient prophecy.
+Introduction to the Main Contract, The DAO:
+ - Background: Detail The DAO's purpose as a decentralized autonomous organization, its governance structure, and its tokenomics.
+ - Initial Conflict: Introduce the challenge of implementing a voting mechanism that is both fair and resistant to manipulation.
 
-Setting Development in the City of Aeloria:
- - Primary Location: Elaborate on Aeloria, a city where skyscrapers are intertwined with giant mystical trees, and streets filled with autonomous carriages and floating lanterns.
- - Atmosphere: Include descriptions of weather, sounds, scents, and cultural nuances to make the city come alive.
- - Political Structure: Briefly mention the ruling council that blends technocratic governance with a secret mystical order.
+Setting Development in the Ethereum Network:
+ - Primary Location: Elaborate on Ethereum, a blockchain where smart contracts are executed, and transactions are validated by miners.
+ - Atmosphere: Include descriptions of gas prices, block times, and the nuances of the EVM (Ethereum Virtual Machine).
+ - Political Structure: Briefly mention the consensus mechanism (Proof of Work transitioning to Proof of Stake) that governs the Ethereum network.
 
-Secondary Characters: Commander James Thorn and Ava, the Mystical AI:
- - Thorn's Background: Describe his military background, his stoic demeanor, his skepticism of magic, and his hidden admiration for Dr. Vance.
- - Ava's Nature: Introduce Ava, an AI with an inexplicable connection to ancient wisdom; describe her appearance and her cryptic manner of speaking.
- - Relationships: Develop the dynamics between Dr. Vance, Commander Thorn, and Ava, highlighting conflicts, alliances, and underlying tensions.
+Secondary Contracts: Voting Contract and Token Contract:
+ - Voting Contract: Describe its purpose in facilitating DAO governance, its functions, and its security measures.
+ - Token Contract: Introduce the token contract that manages the DAO's native token; describe its functions and its compliance with the ERC20 standard.
+ - Relationships: Develop the interactions between the main DAO contract, the voting contract, and the token contract, highlighting dependencies and potential points of failure.
 
-Plot Initiation through the Discovery of the Orb:
- - Incident: Describe Dr. Vance's discovery of a mysterious orb that reacts to both technology and magic.
- - Reaction: Detail her fascination and determination to understand the orb, and Thorn's reluctance and skepticism.
+Plot Initiation through the Deployment of the Contracts:
+ - Incident: Describe the deployment of the contracts to the Ethereum network and the initiation of the DAO.
+ - Reaction: Detail the community's response, potential criticisms, and the team's plans for addressing them.
 
-Thematic Undertones on Humanity and Duality:
- - Theme Introduction: Introduce the themes of humanity's relationship with technology and magic, and the duality of logic and faith.
- - Symbolism: Utilize the orb, the city, and specific character traits as symbols reflecting the deeper thematic layers.
+Thematic Undertones on Decentralization and Trust:
+ - Theme Introduction: Introduce the themes of decentralization, trustlessness, and the power dynamics in a DAO.
+ - Symbolism: Utilize the voting contract, the token contract, and specific functions as symbols reflecting the deeper thematic layers.
 
-Narrative Style through Third-Person Limited Perspective:
- - Perspective: Narrate from Dr. Vance's perspective to allow readers insight into her thoughts and emotions.
- - Literary Devices: Include well-crafted metaphors comparing technology and magic, foreshadowing through ancient texts, and similes that evoke the atmosphere.
+Narrative Style through Solidity Code:
+ - Perspective: Write the contract from the perspective of a developer who values readability, security, and efficiency.
+ - Literary Devices: Include well-crafted comments explaining complex functions, clear variable naming, and logical structuring of the code.
 
-Integration of Mystical & Technological Elements:
- - Magic: Explain how magic is harnessed through ancient runes and controlled by a mystical guild.
- - Technology: Describe autonomous machines, airships, and an internet connected through magical ley lines.
- - Constraints: Outline the taboo of blending magic and technology, a line Dr. Vance is willing to cross.
+Integration of Blockchain & Smart Contract Elements:
+ - Blockchain: Explain how Ethereum's blockchain provides a decentralized ledger for the DAO's operations.
+ - Smart Contract: Describe how the DAO, voting, and token contracts interact with each other and the Ethereum network.
+ - Constraints: Outline the limitations of the EVM, gas costs, and potential scalability issues.
 
-Ending the Chapter with Intrigue:
- - Cliffhanger: End with Ava uttering a prophecy connected to the orb, leaving both Dr. Vance and the reader puzzled.
- - Reflection: Provide Dr. Vance's inner reflections, her excitement, fear, and a determination that hints at her forthcoming journey.
+Ending the Contract with a Security Audit:
+ - Security Review: End with a thorough audit of the contract, identifying potential vulnerabilities and areas for improvement.
+ - Reflection: Provide the developer's thoughts on the contract's strengths, weaknesses, and potential future upgrades.
 
-Be sure to occasionally include quotes from the characters.
+ - Character Dialogue: Incorporate occasional quotes from the characters to provide a more immersive experience.
 ENDEXAMPLE
 
 The new task must have completely different requirements, topics, etc.
 
-This example has 8 criteria sections (intro, setting development, secondary characters, plit initiation, thematic undertones, narrative style, integration of ..., ending the chapter); the new task must have new, unique sections with different headings.
+This example has 8 criteria sections (Introduction, Setting Development, Secondary Contracts, Plot Initiation, Thematic Undertones, Narrative Style, Integration of Blockchain & Smart Contract Elements, Ending the Contract); the new task must have new, unique sections with different headings.

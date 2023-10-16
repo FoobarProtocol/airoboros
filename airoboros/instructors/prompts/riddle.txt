@@ -1,33 +1,33 @@
-I need you to help me generate some fairly tricky logical reasoning puzzles/riddles.  I would like you to provide both the question and the solution.
+I need you to help me generate some fairly tricky smart contract programming and development problems. I would like you to provide both the problem and the solution.
 
 Here are a few examples:
-Example 1: QUESTION: There is a room with no doors, and no windows. A man is found hung from the ceiling. A puddle of water is on the floor. How did he die?
-ANSWER: He was standing on a block of ice.
+Example 1: PROBLEM: A smart contract is deployed on the Ethereum network. It has a function that can only be called by the contract owner. However, an unknown address is able to call this function. How is this possible?
+SOLUTION: The contract owner might have accidentally transferred ownership to the unknown address.
 
-Example 2: QUESTION: A boy and a doctor were fishing. The boy is the doctor's son, but the doctor isn't the boy's father. Who is the doctor?
-ANSWER: His mother.
+Example 2: PROBLEM: A smart contract is consuming more gas than expected. The contract is simple and doesn't have any loops or large computations. What could be the reason?
+SOLUTION: The contract might be storing large amounts of data. Storing data on the Ethereum network is expensive in terms of gas.
 
-Example 3: QUESTION: Two horses were born at the same time. They both traveled the world, and then died at the same time. However, they didn't live to the same age. How?
-ANSWER: One of the hoses went east, the other west.  The first horse was gaining in the number of days, the other was losing.
+Example 3: PROBLEM: A smart contract function is supposed to send Ether to an address. However, the function is failing and the transaction is being reverted. What could be the issue?
+SOLUTION: The contract might not have enough Ether to send. The function should check the contract's balance before attempting to send Ether.
 
-Example 4. QUESTION: Spot the odd one out - FIRST, SECOND, THIRD, FORTH, FIFTH, SIXTH, SEVENTH, EIGHTH
-ANSWER: "FORTH" should be "FOURTH"
+Example 4: PROBLEM: Spot the error in this Solidity code - contract MyContract { function MyContract() public { owner = msg.sender; } }
+SOLUTION: The constructor function should be defined using the "constructor" keyword, not the contract name.
 
-Example 5: QUESTION: There are two sisters: One gives birth to the other and she, in turn, gives birth to the first. Who are the two sisters?
-ANSWER: Day and night.
+Example 5: PROBLEM: A smart contract is supposed to accept Ether payments. However, when Ether is sent to the contract's address, the transaction fails. What could be the issue?
+SOLUTION: The contract might not have a payable fallback function. This function is required to accept Ether payments.
 
-Example 6: QUESTION: Jackie has 3 brothers.  Each brother has 2 sisters.  How many sisters does Jackie have?
-ANSWER: Jackie has one sister.  If each brother has 2 sisters, assuming Jackie is a female, that would mean there are two total female siblings, of which Jackie is one, so 2 - 1 = 1.  The number of brothers is an extraneous detail.
+Example 6: PROBLEM: A smart contract has a function that updates a state variable. However, the state variable is not being updated when the function is called. What could be the issue?
+SOLUTION: The function might be marked as "view" or "pure". These modifiers prevent the function from modifying state variables.
 
-Please write {batch_size} more examples of a similar format, with "QUESTION: [puzzle]" and "ANSWER: [answer]" with the correct answer, reasoning step-by-step for the answer when appropriate.
+Please write {batch_size} more examples of a similar format, with "PROBLEM: [problem]" and "SOLUTION: [solution]" with the correct solution, reasoning step-by-step for the solution when appropriate.
 
-All output text should be in {language}, but the exact terms "QUESTION" and "ANSWER" are special tokens that must not be translated.
+All output text should be in {language}, but the exact terms "PROBLEM" and "SOLUTION" are special tokens that must not be translated.
 
-Try not to use common/well-known riddles; the puzzles/riddles should be highly diverse and unique.
+Try not to use common/well-known problems; the problems should be highly diverse and unique.
 
 The output format should be:
-QUESTION: [first puzzle]
-ANSWER: [first puzzle's answer]
+PROBLEM: [first problem]
+SOLUTION: [first problem's solution]
 
-QUESTION: [second puzzle]
-ANSWER: [second puzzle's answer]
+PROBLEM: [second problem]
+SOLUTION: [second problem's solution]

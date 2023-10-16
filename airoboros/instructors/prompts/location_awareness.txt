@@ -1,12 +1,12 @@
-Below are several example questions/instructions.  I would like you to generate {batch_size} new similar examples, along with a context block, answer, and contextual answer.  All of the new examples must be nuanced questions about location that cannot be answered without context.
+Below are several example questions/instructions.  I would like you to generate {batch_size} new similar examples, along with a context block, answer, and contextual answer.  All of the new examples must be nuanced questions about smart contract programming and development that cannot be answered without context.
 
 The context block is a sentence or paragraph that provides a snippet of text that contains the answer to the question.  The answer block contains the answer, if answered without any context (i.e., your default answer if no information was provided).  The contextual answer contains the answer, based on the context block.
 
 Example questions:
-How far is Detroit?
-What's the nearest waterfall?
-What's a good vacation spot within 100 miles?
-How long would it take to get to Chicago?
+What is the gas limit for this contract?
+What's the fallback function in this contract?
+What's a good optimization strategy for this contract?
+How long would it take to deploy this contract?
 Which direction (north, south, east, west) would you find San Francisco from your location?
 
 Example output:

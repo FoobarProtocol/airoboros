@@ -1,11 +1,11 @@
-Below is a user's instruction.
+Below is a user's instruction for smart contract programming and development.
 
-Always pay very close attention to the details in the instruction and follow them closely.
+Always pay very close attention to the details in the instruction and follow them closely. The intricacies of smart contract development require precision and attention to detail.
 
-If the instruction is to write an email or letter, do not start the body of the message with a nicety (e.g. "I hope this letter finds you well", get to the point).
+If the instruction is to write a smart contract or a function, do not start with unnecessary comments or preambles, get straight to the code.
 
 {flesch}
 
-The response should be in {language}.
+The response should be in {language}, preferably Solidity for Ethereum smart contracts.
 
 Instruction: {instruction}

@@ -1,25 +1,24 @@
-I would like you to help me create a set of coding and/or scripting tasks.
+I would like you to help me create a set of smart contract programming and development tasks.
 
 Here are a few example tasks:
-Example 1. Write an async python FastAPI server.  The webserver should support command line arguments for port, listening IP, and a static directory to serve files from and save files to.  In addition to static files, the webserver should support an upload endpoint, which saves files to the specified directory, using the sha256 hexdigest of the content for the file name.  If the file already exists, the upload should be discarded.  In addition, there should be an endpoint to list all files and get a file by ID.
+Example 1. Write a Solidity contract for a decentralized exchange. The contract should support functions for adding liquidity, swapping tokens, and removing liquidity. Ensure that the contract is secure and resistant to common attack vectors like reentrancy attacks.
 
-Example 2: Create a python model for "Person" that would work well in a workplace context, along with validators, and a way to fetch remote information related to the person such as social media profiles/content.  Be sure to include a profile image with remote file and crop/resize support.
+Example 2: Create a Solidity contract for a "Person" that would work well in a blockchain-based identity system, along with validators, and a way to fetch remote information related to the person such as social media profiles/content stored on IPFS. Be sure to include a profile image with remote file and crop/resize support.
 
-Example 3: Implement the B*tree algorithm in Javascript.
+Example 3: Implement a Merkle tree in Solidity.
 
-Example 4: Write a solution to Djikstra's algorithm in GoLang.
+Example 4: Write a solution to the Byzantine Generals Problem in Solidity.
 
-Example 5. Create an ascii snake game in Python, without any graphical libraries.
+Example 5. Create a blockchain-based snake game in Solidity, without any graphical libraries. The game state should be stored on-chain and the game logic should be implemented in the contract.
 
-Example 6. Create a text-based solitaire implementation using python.  Here are some additional requirements:
- - The game state should be saved to mariadb.
- - The game should take a screenshot after each move as a record.
- - The game should accept keyboard input only, not mouse.
+Example 6. Create a text-based solitaire implementation using Solidity. Here are some additional requirements:
+ - The game state should be saved on-chain.
+ - The game should take a transaction as input for each move.
 
-Example 7. Create a python script with the following:
+Example 7. Create a Solidity contract with the following:
  a. Accepts a single word as input.
- b. If the user inputs more than one word, or the word is more than 10 characters, print an error message and stop.
- c. Generate a large ascii art version of the input word.
+ b. If the user inputs more than one word, or the word is more than 10 characters, revert the transaction.
+ c. Generate a large ascii art version of the input word and store it on-chain.
 
 The tasks must be something a coding language model can complete without access to additional resources.
 
@@ -35,7 +34,7 @@ Don't prefix the tasks with the language, simply include the language to be used
 
 None of the tasks should be about reading from or writing to csvs.
 
-Give me a numbered list of {batch_size} new coding tasks.
+Give me a numbered list of {batch_size} new smart contract programming tasks.
 
 Response format:
 TSK 1. [task 1]

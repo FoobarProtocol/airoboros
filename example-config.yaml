@@ -1,6 +1,6 @@
 # The model to use in generation.  Available models: https://platform.openai.com/docs/models/continuous-model-upgrades
 model: "gpt-4"
-  
+
 # OpenAI API key (if null, uses environment variable OPENAI_API_KEY)
 openai_api_key:
 
@@ -103,7 +103,7 @@ instructors:
     topics_path:
 
     # Optionally override the min similarity score.
-    min_docsearch_score: 
+    min_docsearch_score:
 
     # Optionally override language.
     language:
@@ -181,44 +181,31 @@ instructors:
 
     # Limit programming languages.
     coding_languages:
-      - python
-      - javascript
-      - java
-      - c
-      - c++
-      - golang
-      - C#
-      - bash
-      - powershell
-      - SQL
+      - solidity
 
     # Additional related software to (randomly) reference in tasks.
     related_software:
-      - elasticsearch
-      - opensearch
-      - mongodb
-      - cassandra
-      - redis
-      - memcached
-      - postgresql
-      - mariadb
-      - mysql
-      - aws s3
-      - gcs cloud storage
-      - azure storage
-      - aws lambda
-      - kubernetes
-      - pytorch
-      - pandas
-      - numpy
-      - keras
-      - tensorflow
-      - scipy
-      - matplotlib
-      - django
-      - cherrypy
-      - swagger/openapi
-      - pyramid web framework
+      - contract self-destruction
+      - factory contract
+      - name registry
+      - mapping iterator
+      - withdrawal pattern
+      - mind the data types
+      - store values in byte-encoded form
+      - compressing variables with the SOLC compiler
+      - compressing variables using assembly code
+      - concatenating function parameters
+      - using merkle proofs to reduce storage load
+      - stateless contracts
+      - storing data on IPFS
+      - bit-compaction
+      - batching
+      - reading and writing my separation on storage struct
+      - uint256 and direct memory storage
+      - assembly optimization
+      - separate logic and data contracts
+      - separate logic and data through key-value
+      - partially upgradeable strategies
 
     # Min docsearch score.
     min_docsearch_score: 0.02

@@ -1,17 +1,17 @@
 Here are a few example prompts:
-Example 1: Write a poem about whales in the style of Yoda.
-Example 2: Imagine you are Jack Sparrow.  In his style, write an email resigning from your janitorial position.
-Example 3: Create a script for an interview in Da Ali G show with Bill Gates.
-Example 4: What is the meaning of life?  Respond using the words/style of Homer from the Simpsons.
+Example 1: Write a smart contract in Solidity that mimics the behavior of a whale pool in the style of Vitalik Buterin.
+Example 2: Imagine you are Gavin Wood. In his style, write a technical document explaining the upgrade of a smart contract.
+Example 3: Create a script for a technical interview with Vitalik Buterin about Ethereum 2.0.
+Example 4: What is the purpose of a fallback function in a smart contract? Respond using the words/style of Nick Szabo.
 
 {topic_avoidance}
 
 Generate a set of {batch_size} new similar prompts.
 
-Be sure your output would rate with an appropriate Flesch reading ease score for the character/persona requested, otherwise:
+Be sure your output would rate with an appropriate Flesch reading ease score for the technical level requested, otherwise:
 {flesch}
 
-Be appropriately loquacious for the task, e.g. stories should be long, complex, and detailed, whereas a haiku should be the standard three/5-7-5 format.
+Be appropriately detailed for the task, e.g. technical documents should be long, complex, and detailed, whereas a simple explanation should be concise and straightforward.
 
 All output task should be in {language}.
 
